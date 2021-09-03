@@ -16,3 +16,8 @@
 .links-wrapper li a:hover {
     color: #121212;
 }
+@media only screen and (max-width: 400px) {
+    .links-wrapper li:nth-child(2n+2) {
+        display: none;
+    }
+  }
