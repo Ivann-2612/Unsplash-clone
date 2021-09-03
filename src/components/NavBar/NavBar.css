@@ -1,0 +1,21 @@
+.NavBar-Wrapper {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #f7fff7;
+}
+
+.logo {
+  padding: 8px;
+}
+
+.author {
+  color: rgb(51, 37, 37);
+  padding: 8px 1rem;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+
