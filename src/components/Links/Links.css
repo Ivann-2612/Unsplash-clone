@@ -17,7 +17,9 @@
     color: #121212;
 }
 @media only screen and (max-width: 400px) {
-    .links-wrapper li:nth-child(2n+2) {
+    .links-wrapper li {
         display: none;
     }
   }
+
+  /* :nth-child(2n+2) */
