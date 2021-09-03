@@ -29,10 +29,10 @@
   opacity: .5;
 }
 
-
 .Banner-Title {
   font-size: 45px;
   padding-bottom: 10px;
+  text-align: center;
 }
 
 .Banner-Text-1, .Banner-Text-2 {
